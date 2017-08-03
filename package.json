@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Update for mjml-section, to include Windows 10 background-image support",
   "homepage": "https://mjml.io",
+  "keywords": "mjml, background-image, responsive email",
   "license": "MIT",
   "main": "index.js",
   "scripts": {},
@@ -12,5 +13,9 @@
       "name": "hkolsen",
       "email": "heidi.olsen@eroi.com"
     }
-  ]
+  ],
+  "repository" :
+    { "type" : "git"
+    , "url" : "https://github.com/hkolsen/mjml-section-bg-img"
+    }
 }
